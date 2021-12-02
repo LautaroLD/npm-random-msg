@@ -1,6 +1,6 @@
 {
   "name": "lauttyd-random-msg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gestion de dependencias y paquetes con npm",
   "main": "src/index.js",
   "scripts": {
