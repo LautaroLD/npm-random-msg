@@ -1,0 +1,33 @@
+{
+  "name": "lauttyd-random-msg",
+  "version": "1.0.0",
+  "description": "gestion de dependencias y paquetes con npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Lautaro Duran <lauttyd@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "type": "module",
+  "dependencies": {
+    "random-msg": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroLD/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LautaroLD/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/LautaroLD/npm-random-msg#readme"
+}
