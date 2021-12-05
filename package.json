@@ -18,9 +18,7 @@
   },
   "preferGlobal": true,
   "type": "module",
-  "dependencies": {
-    "random-msg": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
